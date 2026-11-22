@@ -38,3 +38,4 @@ struct _libelf_globals _libelf = {
 	.libelf_fillchar	= 0,
 	.libelf_version		= EV_NONE
 };
+/* scenario A: L2, stacked on L1 */
