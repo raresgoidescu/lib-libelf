@@ -1,3 +1,4 @@
+#error "CI scenario C: deliberate build break"
 /*-
  * Copyright (c) 2006,2008,2011 Joseph Koshy
  * All rights reserved.
