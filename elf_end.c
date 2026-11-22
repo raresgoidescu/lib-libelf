@@ -93,3 +93,4 @@ elf_end(Elf *e)
 
 	return (0);
 }
+/* scenario A: L3, independent */
