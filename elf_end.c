@@ -95,3 +95,4 @@ elf_end(Elf *e)
 }
 /* scenario A: L3, independent */
 /* scenario A: L3, second push (fan-out test) */
+/* scenario F: approval gate */
